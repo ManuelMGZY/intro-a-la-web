@@ -7,3 +7,9 @@
 2. angel 
 1. alejandro 
 1. muñoz 
+
+## Segunda Linea 
+- aislynn
+- emmanuel 
+- manuel 
+- hernesto
